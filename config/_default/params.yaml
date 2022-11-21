@@ -41,9 +41,9 @@ header:
 
 footer:
   copyright:
-    notice: '© 2022, Sam Homiller.'
+    notice: '© 2022, Sam Homiller.<br>Background photo courtesy Fermilab, showing muon tracks in a bubble chamber.'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
