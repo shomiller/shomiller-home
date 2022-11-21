@@ -41,7 +41,7 @@ header:
 
 footer:
   copyright:
-    notice: '© 2022, Sam Homiller. This work is licensed under {license}'
+    notice: '© 2022, Sam Homiller.'
     license:
       enable: true
       allow_derivatives: false
